@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iray\\source\\repos\\task1scenarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\pom\\aboutpluginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\pom\\aboutpluginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\features\\aboutpluginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\features\\aboutpluginpage.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\utilities\\tsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\utilities\\tsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\drivers\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\drivers\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\pom\\enablebluetoothpluginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\pom\\enablebluetoothpluginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|c:\\users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\features\\enablebluetooth.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E27222B-904B-431B-BA7E-D78413780874}|task1scenarios\\task1scenarios.csproj|solutionrelative:task1scenarios\\features\\enablebluetooth.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnableBluetoothPluginPage.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\POM\\EnableBluetoothPluginPage.cs",
+              "RelativeDocumentMoniker": "task1scenarios\\POM\\EnableBluetoothPluginPage.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\POM\\EnableBluetoothPluginPage.cs",
+              "RelativeToolTip": "task1scenarios\\POM\\EnableBluetoothPluginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:36:11.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnableBluetooth.feature",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Features\\EnableBluetooth.feature",
+              "RelativeDocumentMoniker": "task1scenarios\\Features\\EnableBluetooth.feature",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Features\\EnableBluetooth.feature",
+              "RelativeToolTip": "task1scenarios\\Features\\EnableBluetooth.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-19T09:58:55.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPluginPage.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\POM\\AboutPluginPage.cs",
+              "RelativeDocumentMoniker": "task1scenarios\\POM\\AboutPluginPage.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\POM\\AboutPluginPage.cs",
+              "RelativeToolTip": "task1scenarios\\POM\\AboutPluginPage.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0kAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:14:54.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "driver.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Drivers\\driver.cs",
+              "RelativeDocumentMoniker": "task1scenarios\\Drivers\\driver.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Drivers\\driver.cs",
+              "RelativeToolTip": "task1scenarios\\Drivers\\driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:03:05.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "methods.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Methods\\methods.cs",
+              "RelativeDocumentMoniker": "task1scenarios\\Methods\\methods.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Methods\\methods.cs",
+              "RelativeToolTip": "task1scenarios\\Methods\\methods.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:23:39.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tsconfig1.json",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\utilities\\tsconfig1.json",
+              "RelativeDocumentMoniker": "task1scenarios\\utilities\\tsconfig1.json",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\utilities\\tsconfig1.json",
+              "RelativeToolTip": "task1scenarios\\utilities\\tsconfig1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T06:16:16.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hooks1.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Hooks\\Hooks1.cs",
+              "RelativeDocumentMoniker": "task1scenarios\\Hooks\\Hooks1.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Hooks\\Hooks1.cs",
+              "RelativeToolTip": "task1scenarios\\Hooks\\Hooks1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:13:41.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutPluginPage.feature",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Features\\AboutPluginPage.feature",
+              "RelativeDocumentMoniker": "task1scenarios\\Features\\AboutPluginPage.feature",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\Features\\AboutPluginPage.feature",
+              "RelativeToolTip": "task1scenarios\\Features\\AboutPluginPage.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-11T06:10:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "steps.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\StepDefinitions\\steps.cs",
+              "RelativeDocumentMoniker": "task1scenarios\\StepDefinitions\\steps.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\task1scenarios\\task1scenarios\\StepDefinitions\\steps.cs",
+              "RelativeToolTip": "task1scenarios\\StepDefinitions\\steps.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA4wD4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:04:01.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "164c7ad9-e55d-4e95-a0da-251741ab4566",
+  "children": [
+    "8431263a-f6df-4219-9d4c-4606cb32fa81"
+  ],
+  "befores": [
+    {
+      "name": "Hooks1.BeforeScenarioWithTag()",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746442383572,
+      "stop": 1746442394495
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1746442383572,
+  "stop": 1746442399620
+}

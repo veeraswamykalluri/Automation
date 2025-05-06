@@ -1,0 +1,277 @@
+2025-04-22 09:52:18:949 [Appium] Welcome to Appium v1.22.3
+2025-04-22 09:52:18:951 [Appium] Non-default server args:
+2025-04-22 09:52:18:951 [Appium]   address: 127.0.0.1
+2025-04-22 09:52:18:951 [Appium]   logFile: C:\Users\iray\source\repos\testmultiplepluginall\testmultiplepluginall\bin\Debug\net6.0\appium.log
+2025-04-22 09:52:18:977 [Appium] Appium REST http interface listener started on 127.0.0.1:4723
+2025-04-22 09:52:19:746 [HTTP] --> GET /wd/hub/status
+2025-04-22 09:52:19:747 [HTTP] {}
+2025-04-22 09:52:19:749 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2025-04-22 09:52:19:750 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.22.3"}}
+2025-04-22 09:52:19:755 [HTTP] <-- GET /wd/hub/status 200 7 ms - 68
+2025-04-22 09:52:19:755 [HTTP] 
+2025-04-22 09:52:21:818 [HTTP] Request idempotency key: 7f5a6540-53e3-46d4-918f-0773e3cc8dc8
+2025-04-22 09:52:21:865 [HTTP] --> POST /wd/hub/session
+2025-04-22 09:52:21:866 [HTTP] {"desiredCapabilities":{"platformName":"Android","deviceName":"google pixel","platformVersion":"15","udid":"RZCR90DL9KX","app":"C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk","uiautomator2ServerInstallTimeout":180000},"capabilities":{"firstMatch":[{"platformName":"Android"}]}}
+2025-04-22 09:52:21:867 [W3C] Calling AppiumDriver.createSession() with args: [{"platformName":"Android","deviceName":"google pixel","platformVersion":"15","udid":"RZCR90DL9KX","app":"C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk","uiautomator2ServerInstallTimeout":180000},null,{"firstMatch":[{"platformName":"Android"}]}]
+2025-04-22 09:52:21:868 [BaseDriver] Event 'newSessionRequested' logged at 1745315541867 (15:22:21 GMT+0530 (India Standard Time))
+2025-04-22 09:52:21:874 [Appium] The following capabilities were provided in the JSONWP desired capabilities that are missing in W3C capabilities: ["deviceName","platformVersion","udid","app","uiautomator2ServerInstallTimeout"]
+2025-04-22 09:52:21:874 [Appium] Trying to fix W3C capabilities by merging them with JSONWP caps
+2025-04-22 09:52:21:876 [BaseDriver] The following capabilities are not standard capabilities and should have an extension prefix:
+2025-04-22 09:52:21:877 [BaseDriver]   deviceName
+2025-04-22 09:52:21:878 [BaseDriver]   platformVersion
+2025-04-22 09:52:21:879 [BaseDriver]   udid
+2025-04-22 09:52:21:879 [BaseDriver]   app
+2025-04-22 09:52:21:879 [BaseDriver]   uiautomator2ServerInstallTimeout
+2025-04-22 09:52:21:881 [Appium] 
+2025-04-22 09:52:21:881 [Appium] ======================================================================
+2025-04-22 09:52:21:881 [Appium]   DEPRECATION WARNING:
+2025-04-22 09:52:21:882 [Appium] 
+2025-04-22 09:52:21:882 [Appium]   The 'automationName' capability was not provided in the desired 
+2025-04-22 09:52:21:882 [Appium]   capabilities for this Android session
+2025-04-22 09:52:21:882 [Appium] 
+2025-04-22 09:52:21:882 [Appium]   Setting 'automationName=UiAutomator2' by default and using the 
+2025-04-22 09:52:21:882 [Appium]   UiAutomator2 Driver
+2025-04-22 09:52:21:882 [Appium] 
+2025-04-22 09:52:21:883 [Appium]   The next major version of Appium (2.x) will **require** the 
+2025-04-22 09:52:21:883 [Appium]   'automationName' capability to be set for all sessions on all 
+2025-04-22 09:52:21:883 [Appium]   platforms
+2025-04-22 09:52:21:883 [Appium] 
+2025-04-22 09:52:21:883 [Appium]   In previous versions (Appium <= 1.13.x), the default was 
+2025-04-22 09:52:21:883 [Appium]   'automationName=UiAutomator1'
+2025-04-22 09:52:21:883 [Appium] 
+2025-04-22 09:52:21:883 [Appium]   If you wish to use that automation instead of UiAutomator2, please 
+2025-04-22 09:52:21:884 [Appium]   add 'automationName=UiAutomator1' to your desired capabilities
+2025-04-22 09:52:21:884 [Appium] 
+2025-04-22 09:52:21:884 [Appium]   For more information about drivers, please visit 
+2025-04-22 09:52:21:884 [Appium]   http://appium.io/docs/en/about-appium/intro/ and explore the 
+2025-04-22 09:52:21:884 [Appium]   'Drivers' menu
+2025-04-22 09:52:21:884 [Appium] 
+2025-04-22 09:52:21:884 [Appium] ======================================================================
+2025-04-22 09:52:21:884 [Appium] 
+2025-04-22 09:52:22:141 [Appium] Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.70.1) session
+2025-04-22 09:52:22:144 [BaseDriver] W3C capabilities and MJSONWP desired capabilities were provided
+2025-04-22 09:52:22:144 [BaseDriver] Creating session with W3C capabilities: {
+2025-04-22 09:52:22:144 [BaseDriver]   "alwaysMatch": {
+2025-04-22 09:52:22:144 [BaseDriver]     "appium:deviceName": "google pixel",
+2025-04-22 09:52:22:144 [BaseDriver]     "appium:platformVersion": "15",
+2025-04-22 09:52:22:144 [BaseDriver]     "appium:udid": "RZCR90DL9KX",
+2025-04-22 09:52:22:144 [BaseDriver]     "appium:app": "C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk",
+2025-04-22 09:52:22:144 [BaseDriver]     "appium:uiautomator2ServerInstallTimeout": 180000,
+2025-04-22 09:52:22:144 [BaseDriver]     "platformName": "Android"
+2025-04-22 09:52:22:144 [BaseDriver]   },
+2025-04-22 09:52:22:145 [BaseDriver]   "firstMatch": [
+2025-04-22 09:52:22:145 [BaseDriver]     {}
+2025-04-22 09:52:22:145 [BaseDriver]   ]
+2025-04-22 09:52:22:145 [BaseDriver] }
+2025-04-22 09:52:22:154 [BaseDriver] Session created with session id: a3a03be2-baf2-4213-8fa0-e2594b617ecc
+2025-04-22 09:52:22:157 [BaseDriver] Using local app 'C:\Users\iray\Downloads\TestMultiplePlugin.apk'
+2025-04-22 09:52:22:157 [UiAutomator2] Checking whether app is actually present
+2025-04-22 09:52:22:184 [ADB] Found 2 'build-tools' folders under 'C:\Users\iray\AppData\Local\Android\Sdk' (newest first):
+2025-04-22 09:52:22:184 [ADB]     C:/Users/iray/AppData/Local/Android/Sdk/build-tools/35.0.0
+2025-04-22 09:52:22:184 [ADB]     C:/Users/iray/AppData/Local/Android/Sdk/build-tools/34.0.0
+2025-04-22 09:52:22:185 [ADB] Using 'adb.exe' from 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe'
+2025-04-22 09:52:22:185 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 start-server'
+2025-04-22 09:52:22:217 [AndroidDriver] Retrieving device list
+2025-04-22 09:52:22:218 [ADB] Trying to find a connected android device
+2025-04-22 09:52:22:219 [ADB] Getting connected devices
+2025-04-22 09:52:22:246 [ADB] Connected devices: [{"udid":"RZCR90DL9KX","state":"device"}]
+2025-04-22 09:52:22:246 [AndroidDriver] Using device: RZCR90DL9KX
+2025-04-22 09:52:22:247 [ADB] Using 'adb.exe' from 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe'
+2025-04-22 09:52:22:247 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 start-server'
+2025-04-22 09:52:22:268 [ADB] Setting device id to RZCR90DL9KX
+2025-04-22 09:52:22:268 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell getprop ro.build.version.sdk'
+2025-04-22 09:52:22:336 [ADB] Current device property 'ro.build.version.sdk': 33
+2025-04-22 09:52:22:336 [ADB] Getting device platform version
+2025-04-22 09:52:22:336 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell getprop ro.build.version.release'
+2025-04-22 09:52:22:413 [ADB] Current device property 'ro.build.version.release': 13
+2025-04-22 09:52:22:414 [ADB] Device API level: 33
+2025-04-22 09:52:22:414 [UiAutomator2] Relaxing hidden api policy
+2025-04-22 09:52:22:414 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell 'settings put global hidden_api_policy_pre_p_apps 1;settings put global hidden_api_policy_p_apps 1;settings put global hidden_api_policy 1''
+2025-04-22 09:52:22:650 [AndroidDriver] Parsing package and activity from app manifest
+2025-04-22 09:52:22:677 [ADB] Package name: 'com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:22:677 [ADB] Main activity name: 'crc647f80cf2a2d0a06ff.MainActivity'
+2025-04-22 09:52:22:677 [AndroidDriver] Parsed package and activity are: com.ReSound.TestMultiplePlugins/crc647f80cf2a2d0a06ff.MainActivity
+2025-04-22 09:52:22:679 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX wait-for-device'
+2025-04-22 09:52:22:701 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell echo ping'
+2025-04-22 09:52:22:771 [AndroidDriver] Pushing settings apk to device...
+2025-04-22 09:52:22:772 [ADB] Getting install status for io.appium.settings
+2025-04-22 09:52:22:772 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package io.appium.settings'
+2025-04-22 09:52:22:896 [ADB] 'io.appium.settings' is installed
+2025-04-22 09:52:22:896 [ADB] Getting package info for 'io.appium.settings'
+2025-04-22 09:52:22:897 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package io.appium.settings'
+2025-04-22 09:52:23:021 [ADB] The version code of the installed 'io.appium.settings' is greater than the application version code (106 > 30)
+2025-04-22 09:52:23:022 [ADB] There is no need to downgrade 'io.appium.settings'
+2025-04-22 09:52:23:022 [ADB] Getting IDs of all 'io.appium.settings' processes
+2025-04-22 09:52:23:023 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell 'pgrep --help; echo $?''
+2025-04-22 09:52:23:165 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell pgrep -f \(\[\[:blank:\]\]\|\^\)io\.appium\.settings\(\[\[:blank:\]\]\|\$\)'
+2025-04-22 09:52:23:291 [AndroidDriver] io.appium.settings is already running. There is no need to reset its permissions.
+2025-04-22 09:52:23:292 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell appops set io.appium.settings android:mock_location allow'
+2025-04-22 09:52:23:414 [Logcat] Starting logs capture with command: C:\\Users\\iray\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s RZCR90DL9KX logcat -v threadtime
+2025-04-22 09:52:23:493 [UiAutomator2] Forwarding UiAutomator2 Server port 6790 to local port 8200
+2025-04-22 09:52:23:494 [ADB] Forwarding system: 8200 to device: 6790
+2025-04-22 09:52:23:495 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX forward tcp:8200 tcp:6790'
+2025-04-22 09:52:23:526 [ADB] Getting install status for io.appium.uiautomator2.server
+2025-04-22 09:52:23:527 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package io.appium.uiautomator2.server'
+2025-04-22 09:52:23:604 [ADB] 'io.appium.uiautomator2.server' is installed
+2025-04-22 09:52:23:605 [ADB] Getting package info for 'io.appium.uiautomator2.server'
+2025-04-22 09:52:23:605 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package io.appium.uiautomator2.server'
+2025-04-22 09:52:23:962 [ADB] The version name of the installed 'io.appium.uiautomator2.server' is greater or equal to the application version name ('4.27.0' >= '4.27.0')
+2025-04-22 09:52:23:962 [UiAutomator2] io.appium.uiautomator2.server installation state: sameVersionInstalled
+2025-04-22 09:52:23:963 [ADB] Checking app cert for C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-v4.27.0.apk
+2025-04-22 09:52:24:040 [ADB] Using 'apksigner.jar' from 'C:\Users\iray\AppData\Local\Android\Sdk\build-tools\35.0.0\lib\apksigner.jar'
+2025-04-22 09:52:24:041 [ADB] Starting apksigner: 'C:\\Program Files\\Java\\jdk-22\\bin\\java.exe' -Xmx1024M -Xss1m -jar C:\\Users\\iray\\AppData\\Local\\Android\\Sdk\\build-tools\\35.0.0\\lib\\apksigner.jar verify --print-certs C:\\Users\\iray\\AppData\\Roaming\\npm\\node_modules\\appium\\node_modules\\appium-uiautomator2-server\\apks\\appium-uiautomator2-server-v4.27.0.apk
+2025-04-22 09:52:25:357 [ADB] apksigner stdout: Signer #1 certificate DN: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+2025-04-22 09:52:25:358 [ADB] Signer #1 certificate SHA-256 digest: a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc
+2025-04-22 09:52:25:358 [ADB] Signer #1 certificate SHA-1 digest: 61ed377e85d386a8dfee6b864bd85b0bfaa5af81
+2025-04-22 09:52:25:358 [ADB] Signer #1 certificate MD5 digest: e89b158e4bcf988ebd09eb83f5378e87
+2025-04-22 09:52:25:358 [ADB] 
+2025-04-22 09:52:25:358 [ADB] sha256 hash did match for 'appium-uiautomator2-server-v4.27.0.apk'
+2025-04-22 09:52:25:358 [ADB] 'C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-v4.27.0.apk' is signed with the default certificate
+2025-04-22 09:52:25:359 [ADB] Getting install status for io.appium.uiautomator2.server.test
+2025-04-22 09:52:25:359 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package io.appium.uiautomator2.server.test'
+2025-04-22 09:52:25:437 [ADB] 'io.appium.uiautomator2.server.test' is installed
+2025-04-22 09:52:25:438 [ADB] Checking app cert for C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-debug-androidTest.apk
+2025-04-22 09:52:25:441 [ADB] Starting apksigner: 'C:\\Program Files\\Java\\jdk-22\\bin\\java.exe' -Xmx1024M -Xss1m -jar C:\\Users\\iray\\AppData\\Local\\Android\\Sdk\\build-tools\\35.0.0\\lib\\apksigner.jar verify --print-certs C:\\Users\\iray\\AppData\\Roaming\\npm\\node_modules\\appium\\node_modules\\appium-uiautomator2-server\\apks\\appium-uiautomator2-server-debug-androidTest.apk
+2025-04-22 09:52:25:990 [ADB] apksigner stdout: Signer #1 certificate DN: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+2025-04-22 09:52:25:990 [ADB] Signer #1 certificate SHA-256 digest: a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc
+2025-04-22 09:52:25:990 [ADB] Signer #1 certificate SHA-1 digest: 61ed377e85d386a8dfee6b864bd85b0bfaa5af81
+2025-04-22 09:52:25:990 [ADB] Signer #1 certificate MD5 digest: e89b158e4bcf988ebd09eb83f5378e87
+2025-04-22 09:52:25:990 [ADB] 
+2025-04-22 09:52:25:990 [ADB] sha256 hash did match for 'appium-uiautomator2-server-debug-androidTest.apk'
+2025-04-22 09:52:25:990 [ADB] 'C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-debug-androidTest.apk' is signed with the default certificate
+2025-04-22 09:52:25:990 [UiAutomator2] Server packages are not going to be (re)installed
+2025-04-22 09:52:25:993 [UiAutomator2] Waiting up to 30000ms for services to be available
+2025-04-22 09:52:25:994 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell pm list instrumentation'
+2025-04-22 09:52:26:078 [UiAutomator2] Instrumentation target 'io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner' is available
+2025-04-22 09:52:26:080 [ADB] Adding packages ["io.appium.settings","io.appium.uiautomator2.server","io.appium.uiautomator2.server.test"] to Doze whitelist
+2025-04-22 09:52:26:080 [ADB] Got the following command chunks to execute: [["dumpsys","deviceidle","whitelist","+io.appium.settings",";","dumpsys","deviceidle","whitelist","+io.appium.uiautomator2.server",";","dumpsys","deviceidle","whitelist","+io.appium.uiautomator2.server.test",";"]]
+2025-04-22 09:52:26:080 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys deviceidle whitelist +io.appium.settings ; dumpsys deviceidle whitelist +io.appium.uiautomator2.server ; dumpsys deviceidle whitelist +io.appium.uiautomator2.server.test ;'
+2025-04-22 09:52:26:189 [ADB] Checking app cert for C:\Users\iray\Downloads\TestMultiplePlugin.apk
+2025-04-22 09:52:26:441 [ADB] Starting apksigner: 'C:\\Program Files\\Java\\jdk-22\\bin\\java.exe' -Xmx1024M -Xss1m -jar C:\\Users\\iray\\AppData\\Local\\Android\\Sdk\\build-tools\\35.0.0\\lib\\apksigner.jar verify --print-certs C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk
+2025-04-22 09:52:27:198 [ADB] apksigner stdout: Signer #1 certificate DN: CN=Android Debug, O=Android, C=US
+2025-04-22 09:52:27:198 [ADB] Signer #1 certificate SHA-256 digest: 38b5c192e31d8dd4d26780729831769e56496d1a43bebcf1dc84258d117fb855
+2025-04-22 09:52:27:198 [ADB] Signer #1 certificate SHA-1 digest: 4facb1dcf1bd0006434f79001f12cbf626fae49b
+2025-04-22 09:52:27:198 [ADB] Signer #1 certificate MD5 digest: 44b2a302b0d7a0ac1350e41e59fc1568
+2025-04-22 09:52:27:198 [ADB] 
+2025-04-22 09:52:27:199 [ADB] 'C:\Users\iray\Downloads\TestMultiplePlugin.apk' is signed with a non-default certificate
+2025-04-22 09:52:27:199 [ADB] Getting install status for com.ReSound.TestMultiplePlugins
+2025-04-22 09:52:27:199 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:27:284 [ADB] 'com.ReSound.TestMultiplePlugins' is installed
+2025-04-22 09:52:27:284 [ADB] Getting package info for 'com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:27:284 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:27:394 [ADB] The version name of the installed 'com.ReSound.TestMultiplePlugins' is greater or equal to the application version name ('1.0.0' >= '1.0.0')
+2025-04-22 09:52:27:394 [ADB] There is no need to install/upgrade 'C:\Users\iray\Downloads\TestMultiplePlugin.apk'
+2025-04-22 09:52:27:394 [AndroidDriver] Performing fast reset on 'com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:27:395 [ADB] Getting install status for com.ReSound.TestMultiplePlugins
+2025-04-22 09:52:27:395 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys package com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:27:487 [ADB] 'com.ReSound.TestMultiplePlugins' is installed
+2025-04-22 09:52:27:487 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell am force-stop com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:27:609 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell pm clear com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:27:742 [AndroidDriver] Performed fast reset on the installed 'com.ReSound.TestMultiplePlugins' application (stop and clear)
+2025-04-22 09:52:27:743 [UiAutomator2] Performing shallow cleanup of automation leftovers
+2025-04-22 09:52:27:819 [UiAutomator2] No obsolete sessions have been detected
+2025-04-22 09:52:27:819 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell am force-stop io.appium.uiautomator2.server.test'
+2025-04-22 09:52:27:939 [UiAutomator2] Starting UIAutomator2 server 4.27.0
+2025-04-22 09:52:27:939 [UiAutomator2] Using UIAutomator2 server from 'C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-v4.27.0.apk' and test from 'C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-debug-androidTest.apk'
+2025-04-22 09:52:27:939 [UiAutomator2] Waiting up to 30000ms for UiAutomator2 to be online...
+2025-04-22 09:52:27:939 [ADB] Creating ADB subprocess with args: ["-P",5037,"-s","RZCR90DL9KX","shell","am","instrument","-w","-e","disableAnalytics",true,"io.appium.uiautomator2.server.test/androidx.test.runner.AndroidJUnitRunner"]
+2025-04-22 09:52:27:953 [WD Proxy] Matched '/status' to command name 'getStatus'
+2025-04-22 09:52:27:954 [WD Proxy] Proxying [GET /status] to [GET http://127.0.0.1:8200/wd/hub/status] with no body
+2025-04-22 09:52:27:972 [WD Proxy] Got response with status 200: {"sessionId":"None","value":{"message":"UiAutomator2 Server is ready to accept commands","ready":true}}
+2025-04-22 09:52:27:972 [UiAutomator2] The initialization of the instrumentation process took 33ms
+2025-04-22 09:52:27:973 [WD Proxy] Matched '/session' to command name 'createSession'
+2025-04-22 09:52:27:973 [WD Proxy] Proxying [POST /session] to [POST http://127.0.0.1:8200/wd/hub/session] with body: {"capabilities":{"firstMatch":[{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"platformName":"Android","deviceName":"google pixel","platformVersion":"15","udid":"RZCR90DL9KX","app":"C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk","uiautomator2ServerInstallTimeout":180000},"platformName":"Android","deviceName":"RZCR90DL9KX","platformVersion":"15","udid":"RZCR90DL9KX","app":"C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk","uiautomator2ServerInstallTimeout":180000,"deviceUDID":"RZCR90DL9KX","appPackage":"com.ReSound.TestMultiplePlugins"}],"alwaysMatch":{}}}
+2025-04-22 09:52:27:990 [WD Proxy] Got response with status 200: {"sessionId":"cac23f28-bfc7-4677-a311-41a2d3457aca","value":{"capabilities":{"firstMatch":[{"platform":"LINUX","webStorageEnabled":false,"takesScreenshot":true,"javascriptEnabled":true,"databaseEnabled":false,"networkConnectionEnabled":true,"locationContextEnabled":false,"warnings":{},"desired":{"platformName":"Android","deviceName":"google pixel","platformVersion":"15","udid":"RZCR90DL9KX","app":"C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk","uiautomator2ServerInstallTimeout":180000},"platformName":"Android","deviceName":"RZCR90DL9KX","platformVersion":"15","udid":"RZCR90DL9KX","app":"C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk","uiautomator2ServerInstallTimeout":180000,"deviceUDID":"RZCR90DL9KX","appPackage":"com.ReSound.TestMultiplePlugins"}],"alwaysMatch":{}},"sessionId":"cac23f28-bfc7-4677-a311-41a2d3457aca"}}
+2025-04-22 09:52:27:990 [WD Proxy] Determined the downstream protocol as 'W3C'
+2025-04-22 09:52:28:001 [WD Proxy] Proxying [GET /appium/device/info] to [GET http://127.0.0.1:8200/wd/hub/session/cac23f28-bfc7-4677-a311-41a2d3457aca/appium/device/info] with no body
+2025-04-22 09:52:28:032 [WD Proxy] Got response with status 200: {"sessionId":"cac23f28-bfc7-4677-a311-41a2d3457aca","value":{"androidId":"cec0eb845d8a65ab","apiVersion":"33","bluetooth":{"state":"OFF"},"brand":"samsung","carrierName":"","displayDensity":480,"locale":"en_US","manufacturer":"samsung","model":"SM-G781B","networks":[{"capabilities":{"SSID":null,"linkDownBandwidthKbps":43684,"linkUpstreamBandwidthKbps":25584,"networkCapabilities":"NET_CAPABILITY_NOT_METERED,NET_CAPABILITY_INTERNET,NET_CAPABILITY_NOT_RESTRICTED,NET_CAPABILITY_TRUSTED,NET_CAPABILITY_NOT_VPN,NET_CAPABILITY_VALIDATED,NET_CAPABILITY_NOT_ROAMING,NET_CAPABILITY_FOREGROUND,NET_CAPABILITY_NOT_CONGESTED,NET_CAPABILITY_NOT_SUSPENDED","signalStrength":-42,"transportTypes":"TRANSPORT_WIFI"},"detailedState":"CONNECTED","extraInfo":"","isAvailable":true,"isConnected":true,"isFailover":false,"isRoaming":false,"state":"CONNECTED","subtype":-1,"subtypeName":"","type":1,"typeName":"WIFI"}],"platformVersion":"13","realDisplaySize":"1080x2400","timeZone":"Asia/Kolkata"}}
+2025-04-22 09:52:28:032 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys window'
+2025-04-22 09:52:28:091 [AndroidDriver] Screen already unlocked, doing nothing
+2025-04-22 09:52:28:091 [UiAutomator2] Starting 'com.ReSound.TestMultiplePlugins/crc647f80cf2a2d0a06ff.MainActivity and waiting for 'com.ReSound.TestMultiplePlugins/crc647f80cf2a2d0a06ff.MainActivity'
+2025-04-22 09:52:28:092 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell am start -W -n com.ReSound.TestMultiplePlugins/crc647f80cf2a2d0a06ff.MainActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000'
+2025-04-22 09:52:28:614 [Instrumentation] io.appium.uiautomator2.server.test.AppiumUiAutomator2Server:
+2025-04-22 09:52:32:032 [ADB] Waiting up to 20000ms for activity matching pkg: 'com.ReSound.TestMultiplePlugins' and activity: 'crc647f80cf2a2d0a06ff.MainActivity' to be focused
+2025-04-22 09:52:32:033 [ADB] Possible activities, to be checked: 'crc647f80cf2a2d0a06ff.MainActivity', 'com.ReSound.TestMultiplePlugins.crc647f80cf2a2d0a06ff.MainActivity'
+2025-04-22 09:52:32:034 [ADB] Getting focused package and activity
+2025-04-22 09:52:32:034 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell dumpsys window displays'
+2025-04-22 09:52:32:120 [ADB] Found package: 'com.ReSound.TestMultiplePlugins' and fully qualified activity name : 'crc647f80cf2a2d0a06ff.MainActivity'
+2025-04-22 09:52:32:121 [WD Proxy] Proxying [GET /appium/device/pixel_ratio] to [GET http://127.0.0.1:8200/wd/hub/session/cac23f28-bfc7-4677-a311-41a2d3457aca/appium/device/pixel_ratio] with no body
+2025-04-22 09:52:32:161 [WD Proxy] Got response with status 404: {"sessionId":"cac23f28-bfc7-4677-a311-41a2d3457aca","value":{"error":"invalid session id","message":"The session identified by cac23f28-bfc7-4677-a311-41a2d3457aca is not known","stacktrace":"io.appium.uiautomator2.common.exceptions.NoSuchDriverException: The session identified by cac23f28-bfc7-4677-a311-41a2d3457aca is not known\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:54)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:3...
+2025-04-22 09:52:32:162 [W3C] Matched W3C error code 'invalid session id' to NoSuchDriverError
+2025-04-22 09:52:32:162 [UiAutomator2] Deleting UiAutomator2 session
+2025-04-22 09:52:32:163 [UiAutomator2] Deleting UiAutomator2 server session
+2025-04-22 09:52:32:163 [WD Proxy] Matched '/' to command name 'deleteSession'
+2025-04-22 09:52:32:163 [WD Proxy] Proxying [DELETE /] to [DELETE http://127.0.0.1:8200/wd/hub/session/cac23f28-bfc7-4677-a311-41a2d3457aca] with no body
+2025-04-22 09:52:32:172 [WD Proxy] Got response with status 404: {"sessionId":"cac23f28-bfc7-4677-a311-41a2d3457aca","value":{"error":"invalid session id","message":"The session identified by cac23f28-bfc7-4677-a311-41a2d3457aca is not known","stacktrace":"io.appium.uiautomator2.common.exceptions.NoSuchDriverException: The session identified by cac23f28-bfc7-4677-a311-41a2d3457aca is not known\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:54)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)\n\tat io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:3...
+2025-04-22 09:52:32:172 [W3C] Matched W3C error code 'invalid session id' to NoSuchDriverError
+2025-04-22 09:52:32:172 [UiAutomator2] Did not get confirmation UiAutomator2 deleteSession worked; Error was: NoSuchDriverError: The session identified by cac23f28-bfc7-4677-a311-41a2d3457aca is not known
+2025-04-22 09:52:32:172 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell am force-stop com.ReSound.TestMultiplePlugins'
+2025-04-22 09:52:32:271 [Logcat] Stopping logcat capture
+2025-04-22 09:52:32:275 [ADB] Removing forwarded port socket connection: 8200 
+2025-04-22 09:52:32:275 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX forward --remove tcp:8200'
+2025-04-22 09:52:32:300 [UiAutomator2] Restoring hidden api policy to the device default configuration
+2025-04-22 09:52:32:300 [ADB] Running 'C:\Users\iray\AppData\Local\Android\Sdk\platform-tools\adb.exe -P 5037 -s RZCR90DL9KX shell 'settings delete global hidden_api_policy_pre_p_apps;settings delete global hidden_api_policy_p_apps;settings delete global hidden_api_policy''
+2025-04-22 09:52:32:484 [BaseDriver] Event 'newSessionStarted' logged at 1745315552484 (15:22:32 GMT+0530 (India Standard Time))
+2025-04-22 09:52:32:484 [W3C] Encountered internal error running command: io.appium.uiautomator2.common.exceptions.NoSuchDriverException: The session identified by cac23f28-bfc7-4677-a311-41a2d3457aca is not known
+2025-04-22 09:52:32:485 [W3C] 	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:54)
+2025-04-22 09:52:32:485 [W3C] 	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)
+2025-04-22 09:52:32:485 [W3C] 	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)
+2025-04-22 09:52:32:485 [W3C] 	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)
+2025-04-22 09:52:32:485 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+2025-04-22 09:52:32:485 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+2025-04-22 09:52:32:485 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+2025-04-22 09:52:32:485 [W3C] 	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+2025-04-22 09:52:32:485 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+2025-04-22 09:52:32:485 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+2025-04-22 09:52:32:486 [W3C] 	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+2025-04-22 09:52:32:487 [W3C] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+2025-04-22 09:52:32:488 [W3C] 	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+2025-04-22 09:52:32:488 [W3C] 	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+2025-04-22 09:52:32:488 [W3C] 	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+2025-04-22 09:52:32:488 [W3C] 	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+2025-04-22 09:52:32:488 [W3C] 	at java.lang.Thread.run(Thread.java:1012)
+2025-04-22 09:52:32:488 [W3C] 
+2025-04-22 09:52:32:490 [HTTP] <-- POST /wd/hub/session 404 10624 ms - 3692
+2025-04-22 09:52:32:490 [HTTP] 
+2025-04-22 09:52:32:558 [HTTP] --> GET /wd/hub/status
+2025-04-22 09:52:32:558 [HTTP] {}
+2025-04-22 09:52:32:559 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2025-04-22 09:52:32:560 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.22.3"}}
+2025-04-22 09:52:32:562 [HTTP] <-- GET /wd/hub/status 200 3 ms - 68
+2025-04-22 09:52:32:562 [HTTP] 
+2025-04-22 09:52:42:053 [Instrumentation] The process has exited with code 255
+2025-04-22 09:52:42:065 uncaughtException: EPIPE: broken pipe, write
+Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:61:18)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Socket.Writable.write (node:internal/streams/writable:508:10)
+    at Console.log (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\transports\console.js:79:23)
+    at Console._write (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\index.js:103:17)
+    at doWrite (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\node_modules\readable-stream\lib\_stream_writable.js:428:64)
+    at writeOrBuffer (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\node_modules\readable-stream\lib\_stream_writable.js:417:5)
+    at Console.Writable.write (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\winston-transport\node_modules\readable-stream\lib\_stream_writable.js:334:11)
+    at DerivedLogger.ondata (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:681:20)
+    at DerivedLogger.emit (node:events:531:35)
+    at addChunk (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:298:12)
+    at readableAddChunk (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:280:11)
+    at DerivedLogger.Readable.push (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_readable.js:241:10)
+    at DerivedLogger.Transform.push (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\readable-stream\lib\_stream_transform.js:139:32)
+    at DerivedLogger._transform (C:\Users\iray\AppData\Roaming\npm\node_modules\appium\node_modules\winston\lib\winston\logger.js:305:12)
