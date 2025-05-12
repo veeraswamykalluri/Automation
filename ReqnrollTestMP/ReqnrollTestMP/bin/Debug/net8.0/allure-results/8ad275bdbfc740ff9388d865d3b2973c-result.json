@@ -1,0 +1,94 @@
+{
+  "uuid": "3a645896-5c6e-4243-b0db-b78085be740f",
+  "historyId": "e271487cfd930e57ff617450d005907a",
+  "testCaseId": "264f724f770b24aee4bc6a9061687f3d",
+  "fullName": "ReqnrollTestMP/Features/AcceptTermsandConditions/Validation for back button not exist on the AcceptTermsAndConditions page",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.AcceptTermsandConditions"
+    },
+    {
+      "name": "feature",
+      "value": "AcceptTermsandConditions"
+    }
+  ],
+  "links": [],
+  "name": "Validation for back button not exist on the AcceptTermsAndConditions page",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more steps are not implemented."
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746694435319,
+      "stop": 1746694436331
+    },
+    {
+      "name": "When click \"AcceptTermsAndConditionsPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746694436331,
+      "stop": 1746694439774
+    },
+    {
+      "name": "Then App not having the \"backbutton\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The step is not implemented."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746694439774,
+      "stop": 1746694439777
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1746694435319,
+  "stop": 1746694439871
+}

@@ -1,0 +1,96 @@
+{
+  "uuid": "84d0c3a7-407e-4a50-abb1-04d100070389",
+  "historyId": "65f0bba9153d5266f97449570943369e",
+  "testCaseId": "7c94fca96585c0c532d95a3257b7ef57",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validations for existance of link in Hearing aid compatibility",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validations for existance of link in Hearing aid compatibility",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception",
+    "trace": "OpenQA.Selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.FindElement(String by, String value)\r\n   at OpenQA.Selenium.Appium.MobileBy.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.Appium.ByAndroidUIAutomator.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.FindElement(By by)\r\n   at ReqnrollTestMP.Helpers.controls.safeClick(String elementText) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Helpers\\controls.cs:line 18\r\n   at ReqnrollTestMP.StepDefinitions.stepdefinations.WhenClick(String aboutPlugin) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs:line 21\r\n   at InvokeStub_Action`2.Invoke(Object, Span`1)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n--- End of stack trace from previous location ---\r\n   at Reqnroll.Bindings.BindingInvoker.InvokeBindingAsync(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepMatchAsync(BindingMatch match, Object[] arguments, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepAsync(IContextManager contextManager, StepInstance stepInstance)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.OnAfterLastStepAsync()\r\n   at Reqnroll.TestRunner.CollectScenarioErrorsAsync()\r\n   at Allure.ReqnrollPlugin.SelectiveRun.TestPlanAwareTestRunner.CollectScenarioErrorsAsync()\r\n   at ReqnrollTestMP.Features.AboutPluginValidationsFeature.ScenarioCleanupAsync()\r\n   at ReqnrollTestMP.Features.AboutPluginValidationsFeature.ValidationsForExistanceOfLinkInHearingAidCompatibility() in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Features\\Aboutplugin.feature:line 22\r\n   at NUnit.Framework.Internal.TaskAwaitAdapter.GenericAdapter`1.GetResult()\r\n   at NUnit.Framework.Internal.AsyncToSyncAdapter.Await(Func`1 invoke)\r\n   at NUnit.Framework.Internal.Commands.TestMethodCommand.RunTestMethod(TestExecutionContext context)\r\n   at NUnit.Framework.Internal.Commands.TestMethodCommand.Execute(TestExecutionContext context)\r\n   at NUnit.Framework.Internal.Commands.BeforeAndAfterTestCommand.<>c__DisplayClass1_0.<Execute>b__0()\r\n   at NUnit.Framework.Internal.Commands.DelegatingTestCommand.RunTestMethodInThreadAbortSafeZone(TestExecutionContext context, Action action)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746701902814,
+      "stop": 1746701903823
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception",
+        "trace": "OpenQA.Selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.FindElement(String by, String value)\r\n   at OpenQA.Selenium.Appium.MobileBy.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.Appium.ByAndroidUIAutomator.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.FindElement(By by)\r\n   at ReqnrollTestMP.Helpers.controls.safeClick(String elementText) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Helpers\\controls.cs:line 18\r\n   at ReqnrollTestMP.StepDefinitions.stepdefinations.WhenClick(String aboutPlugin) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs:line 21\r\n   at InvokeStub_Action`2.Invoke(Object, Span`1)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithFewArgs(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\r\n--- End of stack trace from previous location ---\r\n   at Reqnroll.Bindings.BindingInvoker.InvokeBindingAsync(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepMatchAsync(BindingMatch match, Object[] arguments, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepAsync(IContextManager contextManager, StepInstance stepInstance)"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746701903823,
+      "stop": 1746701907044
+    },
+    {
+      "name": "Then It should display \"link\" in \"Hearing aid compatibility\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746701907044,
+      "stop": 1746701907053
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1746701902814,
+  "stop": 1746701907056
+}

@@ -1,0 +1,109 @@
+{
+  "uuid": "ba8d6b3e-4c9d-4ed2-bc9e-4f7695298473",
+  "historyId": "b94955e370f7be94ac9cc670b2c4e1df",
+  "testCaseId": "f631c7cc6c331e5c18260b4d8f546a4b",
+  "fullName": "ReqnrollTestMP/Features/AcceptTermsandConditions/Validation for enable of continue on the AcceptTermsAndConditions page",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.AcceptTermsandConditions"
+    },
+    {
+      "name": "feature",
+      "value": "AcceptTermsandConditions"
+    }
+  ],
+  "links": [],
+  "name": "Validation for enable of continue on the AcceptTermsAndConditions page",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more steps are not implemented."
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746702532799,
+      "stop": 1746702533806
+    },
+    {
+      "name": "When click \"AcceptTermsAndConditionsPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746702533806,
+      "stop": 1746702537258
+    },
+    {
+      "name": "When Unmark the \"checkbox\" if marked",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The step is not implemented."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746702537258,
+      "stop": 1746702537260
+    },
+    {
+      "name": "Then App not enables the \"continue\" button",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746702537260,
+      "stop": 1746702537261
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1746702532799,
+  "stop": 1746702537262
+}

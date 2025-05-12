@@ -1,0 +1,94 @@
+{
+  "uuid": "ac5ab110-9423-48e3-ad00-cf41ab8c2aac",
+  "historyId": "de267c25bb38cf66f9f150f504317cdd",
+  "testCaseId": "ffa3d314fa67ea6cc5dd5a7e2e30f27c",
+  "fullName": "ReqnrollTestMP/Features/AcceptTermsandConditions/Validation for body on the AcceptTermsAndConditions page",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.AcceptTermsandConditions"
+    },
+    {
+      "name": "feature",
+      "value": "AcceptTermsandConditions"
+    }
+  ],
+  "links": [],
+  "name": "Validation for body on the AcceptTermsAndConditions page",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more steps are not implemented."
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746694450978,
+      "stop": 1746694451992
+    },
+    {
+      "name": "When click \"AcceptTermsAndConditionsPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746694451992,
+      "stop": 1746694455444
+    },
+    {
+      "name": "Then App should display body under terms and condition on AcceptTermsAndConditions page",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The step is not implemented."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746694455444,
+      "stop": 1746694455445
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1746694450978,
+  "stop": 1746694455447
+}

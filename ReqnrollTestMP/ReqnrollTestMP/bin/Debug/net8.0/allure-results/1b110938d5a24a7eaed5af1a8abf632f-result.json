@@ -1,0 +1,96 @@
+{
+  "uuid": "20a16a6c-52b6-43f3-81e5-75e28347d0af",
+  "historyId": "423301c4c4e5eab577d8861a8776f7e7",
+  "testCaseId": "4134ace7376dd4b3c8cc425c045e3729",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validation for Back button on the About plugin page",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validation for Back button on the About plugin page",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception",
+    "trace": "OpenQA.Selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__6_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.FindElement(By by)\r\n   at ReqnrollTestMP.POM.AboutPlugin.ExecutionInAboutPlugin(String a, String b) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AboutPlugin.cs:line 56\r\n   at ReqnrollTestMP.StepDefinitions.stepdefinations.ThenItShouldDisplayIn(String body, String p1) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs:line 28\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)\r\n--- End of stack trace from previous location ---\r\n   at Reqnroll.Bindings.BindingInvoker.InvokeBindingAsync(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepMatchAsync(BindingMatch match, Object[] arguments, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepAsync(IContextManager contextManager, StepInstance stepInstance)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.OnAfterLastStepAsync()\r\n   at Reqnroll.TestRunner.CollectScenarioErrorsAsync()\r\n   at Allure.ReqnrollPlugin.SelectiveRun.TestPlanAwareTestRunner.CollectScenarioErrorsAsync()\r\n   at ReqnrollTestMP.Features.AboutPluginValidationsFeature.ScenarioCleanupAsync()\r\n   at ReqnrollTestMP.Features.AboutPluginValidationsFeature.ValidationForBackButtonOnTheAboutPluginPage() in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Features\\Aboutplugin.feature:line 34\r\n   at NUnit.Framework.Internal.TaskAwaitAdapter.GenericAdapter`1.GetResult()\r\n   at NUnit.Framework.Internal.AsyncToSyncAdapter.Await(Func`1 invoke)\r\n   at NUnit.Framework.Internal.Commands.TestMethodCommand.RunTestMethod(TestExecutionContext context)\r\n   at NUnit.Framework.Internal.Commands.TestMethodCommand.Execute(TestExecutionContext context)\r\n   at NUnit.Framework.Internal.Commands.BeforeAndAfterTestCommand.<>c__DisplayClass1_0.<Execute>b__0()\r\n   at NUnit.Framework.Internal.Commands.DelegatingTestCommand.RunTestMethodInThreadAbortSafeZone(TestExecutionContext context, Action action)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747033046480,
+      "stop": 1747033047520
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747033047523,
+      "stop": 1747033050894
+    },
+    {
+      "name": "Then It should display \"Backbutton\" in \"About plugin\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception",
+        "trace": "OpenQA.Selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__6_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.FindElement(By by)\r\n   at ReqnrollTestMP.POM.AboutPlugin.ExecutionInAboutPlugin(String a, String b) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AboutPlugin.cs:line 56\r\n   at ReqnrollTestMP.StepDefinitions.stepdefinations.ThenItShouldDisplayIn(String body, String p1) in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs:line 28\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)\r\n--- End of stack trace from previous location ---\r\n   at Reqnroll.Bindings.BindingInvoker.InvokeBindingAsync(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepMatchAsync(BindingMatch match, Object[] arguments, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.ExecuteStepAsync(IContextManager contextManager, StepInstance stepInstance)"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747033050895,
+      "stop": 1747033051361
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747033046471,
+  "stop": 1747033051394
+}

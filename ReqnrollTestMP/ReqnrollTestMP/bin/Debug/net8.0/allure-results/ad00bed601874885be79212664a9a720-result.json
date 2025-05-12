@@ -1,0 +1,120 @@
+{
+  "uuid": "42dcad85-6f83-4fa5-befe-7650f31ac004",
+  "historyId": "c79a87cf7e3db95880ea66aa4e639350",
+  "testCaseId": "8bc26abaaa5c2bbe1212266f7b2d35bf",
+  "fullName": "ReqnrollTestMP/Features/AcceptTermsandConditions/Verify back button is enables",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.AcceptTermsandConditions"
+    },
+    {
+      "name": "feature",
+      "value": "AcceptTermsandConditions"
+    }
+  ],
+  "links": [],
+  "name": "Verify back button is enables",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more steps are not implemented."
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746789266941,
+      "stop": 1746789267951
+    },
+    {
+      "name": "When click \"AcceptTermsAndConditionsPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746789267951,
+      "stop": 1746789271350
+    },
+    {
+      "name": "When I click on \"Terms and conditions\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746789271350,
+      "stop": 1746789274521
+    },
+    {
+      "name": "Then I should see  \"back button\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The step is not implemented."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746789274521,
+      "stop": 1746789274523
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "link name",
+      "value": "\"Terms and conditions\"",
+      "excluded": false
+    },
+    {
+      "name": "element",
+      "value": "\"back button\"",
+      "excluded": false
+    }
+  ],
+  "start": 1746789266941,
+  "stop": 1746789274524
+}

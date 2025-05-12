@@ -1,0 +1,87 @@
+{
+  "uuid": "3c306732-0df0-4797-9c02-b9164572577d",
+  "historyId": "e4d2d87b60fad68f0d16090ecc76ee49",
+  "testCaseId": "66f1a58e423bfcd5e743630ff2378232",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validations for body in Hearing aid compatibility",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validations for body in Hearing aid compatibility",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746697046400,
+      "stop": 1746697047407
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746697047407,
+      "stop": 1746697050872
+    },
+    {
+      "name": "Then It should display \"body\" in \"Hearing aid compatibility\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746697050872,
+      "stop": 1746697051359
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1746697046399,
+  "stop": 1746697051360
+}

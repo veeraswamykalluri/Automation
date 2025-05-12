@@ -1,0 +1,150 @@
+{
+  "uuid": "d470b621-fbc3-4e88-b9d4-55a920eb5397",
+  "historyId": "e4cfb03d6934cddec31e1f18b90122f9",
+  "testCaseId": "fd6e922579877780fb586019ecf90a48",
+  "fullName": "ReqnrollTestMP/Features/AcceptTermsandConditions/Validation for Terms and conditions and privacy policy links on the AcceptTermsAndConditions page",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.AcceptTermsandConditions"
+    },
+    {
+      "name": "feature",
+      "value": "AcceptTermsandConditions"
+    }
+  ],
+  "links": [],
+  "name": "Validation for Terms and conditions and privacy policy links on the AcceptTermsAndConditions page",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more steps are not implemented."
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746698882757,
+      "stop": 1746698883769
+    },
+    {
+      "name": "When click \"AcceptTermsAndConditionsPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746698883769,
+      "stop": 1746698887253
+    },
+    {
+      "name": "When I click on \"Terms and conditions\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746698887253,
+      "stop": 1746698890419
+    },
+    {
+      "name": "Then App navigates to \"Terms and conditions page\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The step is not implemented."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746698890419,
+      "stop": 1746698890421
+    },
+    {
+      "name": "When I click on \"close\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746698890421,
+      "stop": 1746698890421
+    },
+    {
+      "name": "Then App navigates to \"mainpage\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1746698890422,
+      "stop": 1746698890422
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "link name",
+      "value": "\"Terms and conditions\"",
+      "excluded": false
+    },
+    {
+      "name": "message",
+      "value": "\"Terms and conditions page\"",
+      "excluded": false
+    }
+  ],
+  "start": 1746698882757,
+  "stop": 1746698890423
+}

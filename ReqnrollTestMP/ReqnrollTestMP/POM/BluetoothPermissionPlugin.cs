@@ -15,9 +15,10 @@ namespace ReqnrollTestMP.POM
         public BluetoothPermissionPlugin(AppiumDriver driver)
         {
             this.driver = driver;
+
         }
 
         public By LoginButton => By.XPath("//android.widget.Button[@text='Login']");
-        public By LoginButtogn => By.C
+      
     }
 }
