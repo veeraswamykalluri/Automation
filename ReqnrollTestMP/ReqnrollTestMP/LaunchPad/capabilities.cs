@@ -19,7 +19,7 @@ namespace ReqnrollTestMP.LaunchPad
             options.AutomationName = "UiAutomator2";
             options.DeviceName="google pixel";
             options.PlatformVersion = "13";
-            options.App = "C:\\Users\\iray\\Downloads\\TestMultiplePlugin.apk";
+            options.App = "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\resource\\TestMultiplePlugin.apk";
             options.AddAdditionalAppiumOption("Udid", "RZCR90DL9KX");
             //options.AddAdditionalAppiumOption("app", @"");
             options.AddAdditionalAppiumOption("Uiautomator2ServerInstallTimeout", 180000);
