@@ -1,0 +1,43 @@
+{
+  "uuid": "5c072d3f-2044-4f72-a583-f6b33a1a36d7",
+  "children": [
+    "10a51d09-3781-4f43-b880-8b0a01bebaad"
+  ],
+  "befores": [
+    {
+      "name": "Hooks1.BeforeScenarioWithTag()",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747207037666,
+      "stop": 1747207048315
+    }
+  ],
+  "afters": [
+    {
+      "name": "Hooks1.CaptureScreenshot()",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747207056752,
+      "stop": 1747207056752
+    }
+  ],
+  "links": [],
+  "start": 1747207037664,
+  "stop": 1747207056752
+}

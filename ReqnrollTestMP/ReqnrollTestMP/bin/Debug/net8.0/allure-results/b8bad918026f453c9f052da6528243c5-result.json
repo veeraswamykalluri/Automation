@@ -1,0 +1,87 @@
+{
+  "uuid": "8f6958b5-f2cd-4513-bf96-e05d91c45313",
+  "historyId": "1e33fb4677c95b71560ac93b6779a8da",
+  "testCaseId": "72c69b3cf171d2de4cd668170249f1a2",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validations for existance of link in user guides",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validations for existance of link in user guides",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206893360,
+      "stop": 1747206894362
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206894362,
+      "stop": 1747206898598
+    },
+    {
+      "name": "Then It should display \"link\" in \"Help section in app\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206898598,
+      "stop": 1747206899028
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747206893360,
+  "stop": 1747206899028
+}

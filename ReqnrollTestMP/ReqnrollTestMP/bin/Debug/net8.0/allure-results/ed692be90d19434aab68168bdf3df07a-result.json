@@ -1,0 +1,87 @@
+{
+  "uuid": "77832891-73ec-4876-be6f-fbe8d49f25dd",
+  "historyId": "889740eeecdea80130474b339a89f93d",
+  "testCaseId": "fc2082e8401e4fd26ca52b298dcd209c",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validations for body in user guides",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validations for body in user guides",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206858187,
+      "stop": 1747206859190
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206859190,
+      "stop": 1747206863428
+    },
+    {
+      "name": "Then It should display \"body\" in \"User guides\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206863428,
+      "stop": 1747206863873
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747206858187,
+  "stop": 1747206863873
+}

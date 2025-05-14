@@ -14,17 +14,21 @@ namespace ReqnrollTestMP.LaunchPad
     {
         public static void capability()
         {
+            //string apkPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "TestMultiplePlugins.apk");
+            string apkPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "resource", "TestMultiplePlugins.apk");
             var options = new AppiumOptions();
             options.PlatformName = "Android";
             options.AutomationName = "UiAutomator2";
             options.DeviceName="google pixel";
             options.PlatformVersion = "13";
-            options.App = "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\resource\\TestMultiplePlugin.apk";
+            options.App = apkPath;
             options.AddAdditionalAppiumOption("Udid", "RZCR90DL9KX");
             //options.AddAdditionalAppiumOption("app", @"");
             options.AddAdditionalAppiumOption("Uiautomator2ServerInstallTimeout", 180000);
            driverLaunch.Driver = new AndroidDriver(new Uri("http://localhost:4723"), options);
-           
+        //C: \Users\iray\source\repos\Automation\ReqnrollTestMP\ReqnrollTestMP\resource\TestMultiplePlugins.apk
+
+
         }
     }
 }

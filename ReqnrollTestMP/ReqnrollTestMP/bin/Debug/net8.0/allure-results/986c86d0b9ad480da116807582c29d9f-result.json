@@ -1,0 +1,139 @@
+{
+  "uuid": "d9caec6d-72c9-4cd0-8057-e631323496f2",
+  "historyId": "e1db6fa7721b0dd4e1f6278c75a26c50",
+  "testCaseId": "fea18988bdedfd8ff1600ba4bcfc9ddf",
+  "fullName": "ReqnrollTestMP/Features/AcceptTermsandConditions/Validation for Click event on continue in the AcceptTermsAndConditions page",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.AcceptTermsandConditions"
+    },
+    {
+      "name": "feature",
+      "value": "AcceptTermsandConditions"
+    }
+  ],
+  "links": [],
+  "name": "Validation for Click event on continue in the AcceptTermsAndConditions page",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "One or more steps are not implemented."
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206971648,
+      "stop": 1747206972649
+    },
+    {
+      "name": "When click \"AcceptTermsAndConditionsPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206972649,
+      "stop": 1747206976851
+    },
+    {
+      "name": "When Mark on the \"checkbox\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "The step is not implemented."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206976854,
+      "stop": 1747206976856
+    },
+    {
+      "name": "When App enables the \"continue\" button to click",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206976856,
+      "stop": 1747206976857
+    },
+    {
+      "name": "When I click on \"continue\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206976857,
+      "stop": 1747206976857
+    },
+    {
+      "name": "Then App navigates to the \"Main page\"",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206976857,
+      "stop": 1747206976857
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747206971648,
+  "stop": 1747206976859
+}

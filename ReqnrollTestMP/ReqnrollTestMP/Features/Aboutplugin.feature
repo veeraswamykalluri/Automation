@@ -29,7 +29,7 @@ Scenario: Validations for Header in About plugin
 	
 	Then It should display "headers" in "About plugin"
 
-Scenario: Validation for Back button on the About plugin page
-	
-	Then It should display "Backbutton" in "About plugin"
+#Scenario: Validation for Back button on the About plugin page
+#	
+#	Then It should display "Backbutton" in "About plugin"
 

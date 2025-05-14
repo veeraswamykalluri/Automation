@@ -1,0 +1,87 @@
+{
+  "uuid": "f91fa3cc-4509-4b2a-b7bc-093f37aa9044",
+  "historyId": "46221c7a2bc6419ed0231d591ee26f09",
+  "testCaseId": "5e9db6c86fc8e716dc16dad843e30b47",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validations for body in Help section in app",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validations for body in Help section in app",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206840951,
+      "stop": 1747206841954
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206841955,
+      "stop": 1747206846140
+    },
+    {
+      "name": "Then It should display \"body\" in \"Help section in app\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747206846140,
+      "stop": 1747206846667
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747206840951,
+  "stop": 1747206846667
+}
