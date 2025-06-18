@@ -1,0 +1,45 @@
+{
+  "uuid": "fae237a3-1530-4e51-afec-1fa30b22e4da",
+  "children": [
+    "1b75c914-74a0-4da4-b96f-b809d3a4908a"
+  ],
+  "befores": [
+    {
+      "name": "Hooks1.BeforeScenarioWithTag()",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20000ms",
+        "trace": "OpenQA.Selenium.UnknownErrorException: An unknown server-side error occurred while processing the command. Original error: Could not find a connected Android device in 20000ms\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Appium.AppiumDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.StartSession(ICapabilities capabilities)\r\n   at OpenQA.Selenium.WebDriver..ctor(ICommandExecutor executor, ICapabilities capabilities)\r\n   at OpenQA.Selenium.Appium.AppiumDriver..ctor(ICommandExecutor commandExecutor, ICapabilities appiumOptions)\r\n   at OpenQA.Selenium.Appium.AppiumDriver..ctor(Uri remoteAddress, ICapabilities appiumOptions, TimeSpan commandTimeout, AppiumClientConfig clientConfig)\r\n   at OpenQA.Selenium.Appium.AppiumDriver..ctor(Uri remoteAddress, ICapabilities appiumOptions, TimeSpan commandTimeout)\r\n   at OpenQA.Selenium.Appium.AppiumDriver..ctor(Uri remoteAddress, ICapabilities appiumOptions)\r\n   at OpenQA.Selenium.Appium.Android.AndroidDriver..ctor(Uri remoteAddress, DriverOptions driverOptions)\r\n   at ReqnrollTestMP.LaunchPad.capabilities.capability() in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\LaunchPad\\capabilities.cs:line 28\r\n   at ReqnrollTestMP.Hooks.Hooks1.BeforeScenarioWithTag() in C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Hooks\\Hooks1.cs:line 33\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeDirectByRefWithFewArgs(Object obj, Span`1 copyOfArgs, BindingFlags invokeAttr)\r\n--- End of stack trace from previous location ---\r\n   at Reqnroll.Bindings.BindingInvoker.InvokeBindingAsync(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, DurationHolder durationHolder)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.InvokeHookAsync(IAsyncBindingInvoker invoker, IHookBinding hookBinding, HookType hookType)\r\n   at Reqnroll.Infrastructure.TestExecutionEngine.FireEventsAsync(HookType hookType)"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1750244958022,
+      "stop": 1750244987533
+    }
+  ],
+  "afters": [
+    {
+      "name": "Hooks1.CaptureScreenshot()",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1750244987565,
+      "stop": 1750244987566
+    }
+  ],
+  "links": [],
+  "start": 1750244958014,
+  "stop": 1750244987567
+}

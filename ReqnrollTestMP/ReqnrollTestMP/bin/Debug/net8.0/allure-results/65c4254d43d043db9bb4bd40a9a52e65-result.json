@@ -1,0 +1,94 @@
+{
+  "uuid": "8ef0327e-09cd-4052-a360-c835c26a0fbd",
+  "historyId": "0f5e78fa7abf6a9f1fbbb09a5c3af303",
+  "testCaseId": "3e2bc813247567ada49b076e9d3160a5",
+  "fullName": "ReqnrollTestMP/Features/BluetoothPermissionPlugin/[scenario name]",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.BluetoothPermissionPlugin"
+    },
+    {
+      "name": "feature",
+      "value": "BluetoothPermissionPlugin"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "[scenario name]",
+  "status": "broken",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given [context]",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747221005434,
+      "stop": 1747221005503
+    },
+    {
+      "name": "When [action]",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747221005504,
+      "stop": 1747221005509
+    },
+    {
+      "name": "Then [outcome]",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747221005509,
+      "stop": 1747221005512
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747221005433,
+  "stop": 1747221005525
+}

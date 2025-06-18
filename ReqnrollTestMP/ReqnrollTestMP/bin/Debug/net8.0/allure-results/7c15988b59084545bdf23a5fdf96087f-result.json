@@ -1,0 +1,87 @@
+{
+  "uuid": "8fbced82-8b88-4fd6-9e02-5a8879168bf2",
+  "historyId": "65f0bba9153d5266f97449570943369e",
+  "testCaseId": "7c94fca96585c0c532d95a3257b7ef57",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validations for existance of link in Hearing aid compatibility",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validations for existance of link in Hearing aid compatibility",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747912562493,
+      "stop": 1747912563502
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747912563502,
+      "stop": 1747912567642
+    },
+    {
+      "name": "Then It should display \"link\" in \"Hearing aid compatibility\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747912567642,
+      "stop": 1747912568123
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747912562493,
+  "stop": 1747912568123
+}

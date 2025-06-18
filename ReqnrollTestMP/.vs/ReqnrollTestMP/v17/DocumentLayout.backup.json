@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\launchpad\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\launchpad\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\pom\\aboutplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\aboutplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\features\\aboutplugin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\features\\aboutplugin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\launchpad\\appiumlauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\launchpad\\appiumlauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\features\\bluetoothpermissionplugin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\features\\bluetoothpermissionplugin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\stepdefinitions\\stepdefinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\stepdefinitions\\stepdefinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\launchpad\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\launchpad\\capabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\pom\\bluetoothpermissionplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\bluetoothpermissionplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\pom\\aboutplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\aboutplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\reqnroll.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\helpers\\allpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\stepdefinitions\\stepdefinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\stepdefinitions\\stepdefinations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\helpers\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\helpers\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\features\\accepttermsandconditions.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\features\\aboutplugin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\features\\aboutplugin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\reqnrolltestmp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\reqnrolltestmp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\launchpad\\driverlaunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
+              "Title": "BluetoothPermissionPlugin.feature",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Features\\BluetoothPermissionPlugin.feature",
+              "RelativeDocumentMoniker": "ReqnrollTestMP\\Features\\BluetoothPermissionPlugin.feature",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Features\\BluetoothPermissionPlugin.feature",
+              "RelativeToolTip": "ReqnrollTestMP\\Features\\BluetoothPermissionPlugin.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-14T09:11:42.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "steps.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\StepDefinitions\\steps.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\StepDefinitions\\steps.cs",
@@ -94,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AcceptTermsandConditions.feature",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Features\\AcceptTermsandConditions.feature",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\Features\\AcceptTermsandConditions.feature",
@@ -106,19 +118,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "stepdefinations.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs",
               "RelativeToolTip": "ReqnrollTestMP\\StepDefinitions\\stepdefinations.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T09:43:15.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BluetoothPermissionPlugin.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\BluetoothPermissionPlugin.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\POM\\BluetoothPermissionPlugin.cs",
@@ -130,55 +142,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ReqnrollTestMP.csproj",
-              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
-              "RelativeDocumentMoniker": "ReqnrollTestMP\\ReqnrollTestMP.csproj",
-              "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
-              "RelativeToolTip": "ReqnrollTestMP\\ReqnrollTestMP.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T04:04:26.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AcceptTermsAndConditions.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
               "RelativeToolTip": "ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA2wA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T11:47:33.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AllPages.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Helpers\\AllPages.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\Helpers\\AllPages.cs",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Helpers\\AllPages.cs",
               "RelativeToolTip": "ReqnrollTestMP\\Helpers\\AllPages.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA3wCMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T10:11:30.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AboutPlugin.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AboutPlugin.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\POM\\AboutPlugin.cs",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AboutPlugin.cs",
               "RelativeToolTip": "ReqnrollTestMP\\POM\\AboutPlugin.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAIA9wEAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwCwAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T10:08:56.269Z"
+              "WhenOpened": "2025-04-30T10:08:56.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "controls.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Helpers\\controls.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\Helpers\\controls.cs",
@@ -190,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "reqnroll.json",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\reqnroll.json",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\reqnroll.json",
@@ -202,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "capabilities.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\LaunchPad\\capabilities.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\LaunchPad\\capabilities.cs",
@@ -210,8 +211,7 @@
               "RelativeToolTip": "ReqnrollTestMP\\LaunchPad\\capabilities.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:29:25.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T11:29:25.097Z"
             },
             {
               "$type": "Document",
@@ -227,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appiumLauncher.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\LaunchPad\\appiumLauncher.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\LaunchPad\\appiumLauncher.cs",
@@ -239,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Hooks1.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Hooks\\Hooks1.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\Hooks\\Hooks1.cs",
@@ -251,13 +251,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Aboutplugin.feature",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Features\\Aboutplugin.feature",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\Features\\Aboutplugin.feature",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Features\\Aboutplugin.feature",
               "RelativeToolTip": "ReqnrollTestMP\\Features\\Aboutplugin.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vxsAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-04-25T06:52:38.223Z"
             }

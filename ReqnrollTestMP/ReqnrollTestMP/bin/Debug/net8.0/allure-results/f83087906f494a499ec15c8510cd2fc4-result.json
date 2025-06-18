@@ -1,0 +1,87 @@
+{
+  "uuid": "0940028e-6eaf-4e92-b302-bfe9b2de1a1b",
+  "historyId": "c45b42502f774a47e0fe3f3961c5843e",
+  "testCaseId": "1fce8671fa1ef6335158ea6807d047a7",
+  "fullName": "ReqnrollTestMP/Features/About plugin validations/Validations for Header in About plugin",
+  "labels": [
+    {
+      "name": "host",
+      "value": "DESKTOP-ULEULOQ"
+    },
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.About plugin validations"
+    },
+    {
+      "name": "feature",
+      "value": "About plugin validations"
+    }
+  ],
+  "links": [],
+  "name": "Validations for Header in About plugin",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given app is launched",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747912681349,
+      "stop": 1747912682355
+    },
+    {
+      "name": "When click \"AboutPlugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747912682355,
+      "stop": 1747912686558
+    },
+    {
+      "name": "Then It should display \"headers\" in \"About plugin\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1747912686558,
+      "stop": 1747912687089
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1747912681348,
+  "stop": 1747912687090
+}
