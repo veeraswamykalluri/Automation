@@ -18,16 +18,16 @@ namespace ReqnrollTestMP.POM
 {
     public class AboutPlugin
     {
-        //private readonly AppiumDriver driver;
-        //private readonly string _b;
+        private readonly AppiumDriver driver;
+        private readonly string _b;
 
 
 
-        //public AboutPlugin(AppiumDriver driver, string b)
-        //{
-        //    this.driver = driver;
-        //    _b = b;
-        //}
+        public AboutPlugin(AppiumDriver driver, string b)
+        {
+            this.driver = driver;
+            _b = b;
+        }
         public static string elementsInAboutPlugin(string a,string b) 
         {
            
@@ -61,9 +61,11 @@ namespace ReqnrollTestMP.POM
                 string actualText = element.Text;
                 Console.WriteLine(actualText);
                 element.Click();
+                string aa = "lknca";
+               
 
                 // Optional: Assert it matches expected text
-                //Assert.AreEqual(b, actualText, $"Expected '{b}', but found '{actualText}'");
+                //Assert.AreEqual(b, actualText, $"Expected '{b}', but found '{}'");
             }
             else
             {

@@ -3040,11 +3040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iray\\source\\repos\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
+      "projectUniqueName": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
       "projectName": "ReqnrollTestMP",
-      "projectPath": "C:\\Users\\iray\\source\\repos\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
+      "projectPath": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
       "packagesPath": "C:\\Users\\iray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iray\\source\\repos\\ReqnrollTestMP\\ReqnrollTestMP\\obj\\",
+      "outputPath": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iray\\AppData\\Roaming\\NuGet\\NuGet.Config",

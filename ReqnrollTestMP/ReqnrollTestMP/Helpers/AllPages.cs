@@ -28,7 +28,7 @@ namespace ReqnrollTestMP.Helpers
             Dictionary<string, Func<string, object>> _pages = new()
 {
     { "AboutPlugin", (b) => new AboutPlugin(driver, b) },
-    { "AcceptTermsAndConditions", (_) => new AcceptTermsAndConditions(driver) },
+    { "AcceptTermsAndConditions", (b) => new AcceptTermsAndConditions(driver,b) },
     { "BluetoothPermissionPlugin", (_) => new BluetoothPermissionPlugin(driver) }
 };
 
