@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\pom\\bluetoothpermissionplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\bluetoothpermissionplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\pom\\accepttermsandconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\accepttermsandconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\pom\\aboutplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\aboutplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +42,7 @@
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\pom\\bluetoothpermissionplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\bluetoothpermissionplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +55,8 @@
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\pom\\accepttermsandconditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
       "AbsoluteMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|c:\\users\\iray\\source\\repos\\automation\\reqnrolltestmp\\reqnrolltestmp\\helpers\\allpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6310C269-4147-410D-82A2-8ACDAFDD922F}|ReqnrollTestMP\\ReqnrollTestMP.csproj|solutionrelative:reqnrolltestmp\\helpers\\allpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -136,21 +150,46 @@
               "RelativeDocumentMoniker": "ReqnrollTestMP\\POM\\BluetoothPermissionPlugin.cs",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\BluetoothPermissionPlugin.cs",
               "RelativeToolTip": "ReqnrollTestMP\\POM\\BluetoothPermissionPlugin.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAA8AAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCgAAAABAAAAAAAAAA==",
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T04:12:21.377Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 13,
+              "Title": "ReqnrollTestMP.csproj",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
+              "RelativeDocumentMoniker": "ReqnrollTestMP\\ReqnrollTestMP.csproj",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\ReqnrollTestMP.csproj",
+              "RelativeToolTip": "ReqnrollTestMP\\ReqnrollTestMP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T04:04:26.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
               "Title": "AcceptTermsAndConditions.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
               "RelativeToolTip": "ReqnrollTestMP\\POM\\AcceptTermsAndConditions.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABYAAAAAAAAAAAAWwA8AAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAsAAAAAAAAAAIA7wBYAAAAJAAAAAAAAAA==",
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:47:33.64Z"
+              "WhenOpened": "2025-04-30T11:47:33.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -166,16 +205,23 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
               "Title": "AboutPlugin.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AboutPlugin.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\POM\\AboutPlugin.cs",
               "ToolTip": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\POM\\AboutPlugin.cs",
               "RelativeToolTip": "ReqnrollTestMP\\POM\\AboutPlugin.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAACEAAAAAAAAAAAAhwCwAAABeAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAADQAAAAAAAAAAIA9wEAAAAAPAAAAAAAAAA==",
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T10:08:56.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T10:08:56.269Z"
             },
             {
               "$type": "Document",
@@ -191,7 +237,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
               "Title": "reqnroll.json",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\reqnroll.json",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\reqnroll.json",
@@ -239,7 +289,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 4,
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
               "Title": "Hooks1.cs",
               "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\Automation\\ReqnrollTestMP\\ReqnrollTestMP\\Hooks\\Hooks1.cs",
               "RelativeDocumentMoniker": "ReqnrollTestMP\\Hooks\\Hooks1.cs",

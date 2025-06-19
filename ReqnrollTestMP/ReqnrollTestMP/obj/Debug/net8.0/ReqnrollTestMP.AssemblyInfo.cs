@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReqnrollTestMP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+397535040f2f221e60742a7e490af76fa2bef730")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+977e4c1c0447c6901d31282ca50364c9064ed40c")]
+>>>>>>> 76ddda8d1215d53f1f911aa636932cbd1e931adc
 [assembly: System.Reflection.AssemblyProductAttribute("ReqnrollTestMP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReqnrollTestMP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
